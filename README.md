@@ -1,4 +1,4 @@
 # helloworld
-Dieses Repository dient zum Erlernen des Git-Flows.
 
-Mein Name ist Jana und ich studiere Wirtschaftsinformatik.
+Hallo Welt,
+ich bin Jana und dieses Repository dient zum Erlernen des Git Flows.
